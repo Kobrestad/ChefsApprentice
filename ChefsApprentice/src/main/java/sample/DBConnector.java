@@ -8,9 +8,9 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 public class DBConnector {
-    private static final String dbUrl = "jdbc:mysql://mysql.stud.ntnu.no/kaareob_recipes"; //TODO: Få Bort disse!!
-    private static final String USERNAME = "kaareob_79";
-    private static final String password = "gruppe79";
+    private static final String dbUrl = "jdbc:mysql://INSERT OWN DB-CREDS"; //TODO: Få Bort disse!!
+    private static final String USERNAME = "DB_USERNAME";
+    private static final String password = "DB_PASSWORD";
     private static final String driver = "com.mysql.cj.jdbc.Driver";
 
 
