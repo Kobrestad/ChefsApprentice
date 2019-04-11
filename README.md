@@ -1,5 +1,7 @@
 <h1>Chef's Apprentice</h1>
 
+Disclaimer: Dette er et GitLab-prosjekt som er flyttet til GitHub
+
 Chef’s Apprentice er en applikasjon der brukere skal kunne finne matoppskrifter basert på søk etter ingredienser. Applikasjonen skal også gi en interaktiv opplevelse der brukere skal kunne legge ut egne oppskrifter, og lese oppskrifter av anerkjente kokker. 
 
 <h2>Motivasjon</h2>
