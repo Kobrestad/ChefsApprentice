@@ -54,6 +54,12 @@ Intellij vil foreslå å importere nye settings fra pom.xml.
 
 Klikk “import new settings”.
 
+Så må en sette opp en egen mySQL-database. Denne kan kjøres på feks. localhost.
+
+Vi har lagt ved et sql-script: `gruppe79.sql` for å opprette databasen etter en har satt opp mysql.
+
+Naviger til prosjektnavn/ChefsApprentice/src/main/java/sample/DBconnector.java og legg inn dine database-credentials.
+
 I Intellij gå til File->Settings->Build, Execution, Deployment->Build Tools->Maven->Runner 
 
 og huk av Delegate IDE build/run actions to maven.
