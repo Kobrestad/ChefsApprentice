@@ -47,7 +47,7 @@ Det er fulgt ordinære konvensjoner i Java fra [JavaPractices](http://www.javapr
 <h2>Installasjon</h2>
 
 Vi anbefaler bruk av Intellij til videreutvikling. 
-For å komme i gang kan en klone repoet fra GitLab.
+For å komme i gang kan en klone repoet fra GitHub.
 
 Deretter åpner en prosjektet i Intellij som et Maven-prosjekt. 
 Intellij vil foreslå å importere nye settings fra pom.xml. 
