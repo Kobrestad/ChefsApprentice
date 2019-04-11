@@ -6,21 +6,17 @@ Chef’s Apprentice er en applikasjon der brukere skal kunne finne matoppskrifte
 
 Tanken bak applikasjonen er å redusere dagens matsvinn samt minimere sult i Norge. Applikasjonen skal gjøre hverdagen lettere ved at det skal bli enklere å bruke opp ingredienser en har liggende i kjøleskapet. 
 
-<h2>Build status</h2>
+<h2>Build status og test coverage</h2>
 
-[![pipeline status](https://gitlab.stud.idi.ntnu.no/programvareutvikling-v19/gruppe-79/badges/masterpom/pipeline.svg)](https://gitlab.stud.idi.ntnu.no/programvareutvikling-v19/gruppe-79/commits/masterpom)
- 
-<h2>Test coverage</h2>
-
-[![coverage report](https://gitlab.stud.idi.ntnu.no/programvareutvikling-v19/gruppe-79/badges/master/coverage.svg)](https://gitlab.stud.idi.ntnu.no/programvareutvikling-v19/gruppe-79/commits/master)
+![badges](https://user-images.githubusercontent.com/37066508/55951646-0f97e100-5c58-11e9-8459-23dc917c5b7f.png)
 
 <h2>Skjermbilder</h2>
 
-<img src="https://gitlab.stud.idi.ntnu.no/programvareutvikling-v19/gruppe-79/wikis/uploads/d6cd65aaa7625f8b9a3c15c1aee2b005/forside.PNG" alt="forside" width="400"/>
+![forside](https://user-images.githubusercontent.com/37066508/55951648-0f97e100-5c58-11e9-960b-966bceee67d5.PNG)
 
 Forside
 
-<img src="https://gitlab.stud.idi.ntnu.no/programvareutvikling-v19/gruppe-79/wikis/uploads/7a928259f987e6792f3de3dd61946b51/write-recipe-page.PNG" alt="write-recipe" width="400"/>
+![write-recipe](https://user-images.githubusercontent.com/37066508/55951654-10307780-5c58-11e9-984c-2d25165bbeef.PNG)
 
 Skriv nye oppskrifter
 
