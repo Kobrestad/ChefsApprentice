@@ -75,7 +75,7 @@ Disse kjøres hver gang en bygger med Maven.
 
 <h2>Brukermanual</h2>
 
-[Se Wiki-siden](https://gitlab.stud.idi.ntnu.no/programvareutvikling-v19/gruppe-79/wikis/home)
+[Se Wiki-siden](https://github.com/Kobrestad/ChefsApprentice/wiki)
 
 <h2>Bidra</h2>
 
